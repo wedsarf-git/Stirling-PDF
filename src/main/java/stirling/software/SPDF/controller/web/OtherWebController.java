@@ -173,4 +173,5 @@ public class OtherWebController {
         model.addAttribute("currentPage", "auto-rename");
         return "misc/auto-rename";
     }
+
 }
